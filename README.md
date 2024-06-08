@@ -6,7 +6,7 @@ Pima kızılderilerine ait 5 yıllık tıbbi veriler içermektedir. Bu veriler i
 
 Veri setimizdeki alanlar:
 
-NOTP : Gebelik sayısı
+NOTP : Gebelik sayısı\n
 PGC : Oral glikoz tolerans testinde 2 saat plazma glikoz konsantrasyonu
 DBP : Diyastolik kan basıncı (mm Hg)
 TST : Triceps deri kıvrım kalınlığı (mm)
