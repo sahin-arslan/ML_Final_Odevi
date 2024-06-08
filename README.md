@@ -1,4 +1,4 @@
-Veri Seti
+**Veri Seti**
 
 Pima kızılderilerine ait 5 yıllık tıbbi veriler içermektedir. Bu veriler ile diyabet bağlanğıçının tahmini konusunda çalışma yapacağız.
 
